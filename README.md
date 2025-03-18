@@ -11,6 +11,12 @@
 
 <br>
 
+[<img src="https://github.com/user-attachments/assets/b5321de8-5558-4b4a-b540-819dd002a404" width="20">]([https://yourwebsite.com))
+
+
+[![portfolio-2](https://github.com/user-attachments/assets/b5321de8-5558-4b4a-b540-819dd002a404)]([https://din-länk-här.com](https://yourwebsite.com))
+
+
 Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin.com/in/nataliesamaan)  |  [Figma](https://www.figma.com) | [Email](mailto:your.email@example.com)
 
 <!---
