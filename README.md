@@ -12,7 +12,7 @@
 <br>
 
 
-Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin.com/in/nataliesamaan)  |  [Figma](https://www.figma.com) | [Email](mailto:your.email@example.com)
+Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](linkedin.com/in/natalie-samaan-5a0588353)  |  [Figma](https://www.figma.com) | [Email](mailto:your.email@example.com)
 
 <!---
 ns-develops/ns-develops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
