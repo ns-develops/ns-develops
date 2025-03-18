@@ -4,7 +4,7 @@
 <br>
 `🎯 My current goals are to connect repos to domains, live URLs and first own app on publish`
 <br>
-`💞️ I’m looking to collaborate on building apps and training forums, world wide`
+`💞️ I’m looking to collaborate on building apps and training forums, worldwide`
 <br>
 `💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
 <br>
