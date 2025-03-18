@@ -9,7 +9,7 @@
 `💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
 <br>
 
-
+<br>
 
 Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin.com/in/nataliesamaan)  |  [Figma](https://www.figma.com) | [Email](mailto:your.email@example.com)
 
