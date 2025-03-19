@@ -2,11 +2,11 @@
 `Building apps, systems, and do webpages, using different languages such as Javascript/Native, Typescript, Kotlin, Swift, UI/UX design,and backend solutions`
 <br>
 <br>
-`🎯 My current goals are to connect repos to domains, live URLs and first own app on publish`
+`🎯 My current goals are to learn connect repos to domains, live URLs and first app on publish`
 <br>
 `💞️ I’m looking to collaborate on building apps and training forums, worldwide`
 <br>
-`💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
+`💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking.`
 <br>
 
 <br>
