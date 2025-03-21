@@ -8,7 +8,7 @@
 <br>
 `💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
 <br>
-`🧠 My brain has many tabs open`
+`🧠 My brain like to have many tabs open`
 <br>
 
 <br>
