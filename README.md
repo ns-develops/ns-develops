@@ -11,7 +11,7 @@
 `🧠 My brain like to have many tabs open`
 <br>
 
-➡▸ Published . . .
+➡▸ Published . . .<br>
     ┗ ▸ `Apps on Google play:`    `Apps on App store: `
 <br>
 
