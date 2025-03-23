@@ -11,8 +11,6 @@
 `🧠 My brain like to have many tabs open`
 <br>
 
-# App Information
-
 <p>
   <strong>Apps on Google Play:</strong>
   <a href="https://play.google.com/store/apps/details?id=com.example.app" target="_blank">Download on Google Play</a>
