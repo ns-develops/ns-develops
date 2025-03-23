@@ -11,25 +11,7 @@
 `🧠 My brain like to have many tabs open`
 <br>
 
-<p>
-  <strong>Apps on Google Play:</strong>
-  <a href="https://play.google.com/store/apps/details?id=com.example.app" target="_blank">Download on Google Play</a>
-</p>
-
-<p>
-  <strong>Apps on Apple Store:</strong>
-  <a href="https://apps.apple.com/us/app/example-app/id123456789" target="_blank">Download on the Apple App Store</a>
-</p>
-
-<br> <!-- Line break to give some space -->
-
-<p>
-
-  <a href="https://play.google.com/store/apps/details?id=com.example.app" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Google_Play_Store_Icon.svg/1024px-Google_Play_Store_Icon.svg.png" alt="Google Play" style="width: 150px; margin-right: 20px;"></a>
-  <a href="https://apps.apple.com/us/app/example-app/id123456789" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Apple_App_Store_logo.svg/1024px-Apple_App_Store_logo.svg.png" alt="Apple App Store" style="width: 150px;"></a>
-</p>
-
-`Apps on Google play:`    Apps on Apple store: 
+`Apps on Google play:`    `Apps on Apple store: `
 <br>
 
 <br>
