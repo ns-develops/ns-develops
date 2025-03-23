@@ -12,13 +12,12 @@
 <br>
 <br>
 
-    ┗ ▸ Apps on Google play:    Apps on App store: 
-<br>
-
-<br>
-
 
 Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin.com/in/natalie-samaan-5a0588353)  |  [Figma](https://www.figma.com) | [Email](mailto:natalie.samaan1@gmail.com)
+
+<br>
+<br>
+ ┗ ▸ Apps on Google play:    Apps on App store: 
 
 <!---
 ns-develops/ns-develops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
