@@ -12,10 +12,10 @@
 <br>
 <br>
 Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin.com/in/natalie-samaan-5a0588353)  |  [Figma](https://www.figma.com) | [Email](mailto:natalie.samaan1@gmail.com)
- <br>
 <br>
- <br>
- ┗ ▸ <p>Apps on Google play:</p>             <p>Apps on App store: </p> 
+<br>
+<br>
+ ┗ ▸ Apps on Google play:            Apps on App store:
 
 
 
