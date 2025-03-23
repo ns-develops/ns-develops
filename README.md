@@ -12,7 +12,7 @@
 <br>
 <br>
 
-    ┗ ▸ `Apps on Google play:`    `Apps on App store: `
+    ┗ ▸ Apps on Google play:    Apps on App store: 
 <br>
 
 <br>
