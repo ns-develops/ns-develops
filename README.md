@@ -11,7 +11,7 @@
 `🧠 My brain like to have many tabs open`
 <br>
 
-`Apps on Google Play:`    `Apps on App Store: `
+`Apps on Google play:`    `Apps on App store: `
 <br>
 
 <br>
