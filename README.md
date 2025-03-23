@@ -17,7 +17,7 @@ Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin
 
 <br>
 <br>
- ┗ ▸ Apps on Google play:    Apps on App store: 
+ ┗ ▸ `Apps on Google play:    Apps on App store: `
 
 <!---
 ns-develops/ns-develops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
