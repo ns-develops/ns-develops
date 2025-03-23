@@ -15,7 +15,7 @@ Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin
  <br>
 <br>
  <br>
- ┗ ▸ Apps on Google play:                 Apps on App store: 
+ ┗ ▸ <p>Apps on Google play:</p>             <p>Apps on App store: </p> 
 
 
 
