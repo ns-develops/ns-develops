@@ -14,6 +14,9 @@
 
  ┗ ▸ `Apps on Google play:    Apps on App store: `
 
+<br>
+<br>
+
 Reach me at: [Portfolio](https://yourwebsite.com) |  [LinkedIn](https://linkedin.com/in/natalie-samaan-5a0588353)  |  [Figma](https://www.figma.com) | [Email](mailto:natalie.samaan1@gmail.com)
 `
 
