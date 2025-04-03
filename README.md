@@ -11,7 +11,7 @@
 `🧠 My brain like to have many tabs open`
 <br>
 <br>
-Reach me at: [Portfolio](https://yourwebsite.com) | 
+Reach me at: [Portfolio](https://yourwebsite.com) 
 <br>
 <br>
 <br>
