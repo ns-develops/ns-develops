@@ -18,7 +18,7 @@
 
 Apps on Google play: Apps on Apple store:
 
-SV | EN
+SV | EN | AR
 
 
 <!---
