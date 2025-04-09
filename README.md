@@ -11,7 +11,7 @@
 `🧠 My brain like to have many tabs open, when i'm not learning programing or building things, my current obsessions is to read about psychology and patterns, philosophy and little physics`
 <br>
 <br>
-👾 [Portfolio](https://yourwebsite.com) 
+[Portfolio](https://yourwebsite.com) 
 <br>
 <br>
 <br>
