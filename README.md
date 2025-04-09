@@ -8,7 +8,7 @@
 <br>
 `💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
 <br>
-`🧠 My brain like to have many tabs open`
+`🧠 My brain like to have many tabs open, when i'm not learning programing or building things, I read about psycology, patterns, filosophy and little fysics`
 <br>
 <br>
 👾 [Portfolio](https://yourwebsite.com) 
