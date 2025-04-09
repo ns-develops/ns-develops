@@ -18,6 +18,8 @@
 
 Apps on Google play: Apps on Apple store:
 
+SV | EN
+
 
 <!---
 ns-develops/ns-develops is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
