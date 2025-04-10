@@ -1,5 +1,5 @@
 
-`Building apps, systems, and webpages, using different languages.
+`Building apps, systems, and webpages, using different languages.`
 
 `Programing languages:
 Javascript/Javascript Native, Typescript, Kotlin, Swift, also improving my skills in UI/UX design, and backend solutions`
