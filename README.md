@@ -1,8 +1,6 @@
 
-`Building apps, systems, and do webpages, using different languages such as Javascript/Native, Typescript, Kotlin, Swift, also improving my skills in UI/UX design,and backend solutions`
+`Building apps, systems, and do webpages, using different languages such as Javascript/Javascript Native, Typescript, Kotlin, Swift, also improving my skills in UI/UX design, and backend solutions`
 <br>
-<br>
-`🎯 My current goals are to learn connect repos to domains, live URLs and first app on publish`
 <br>
 `💞️ I’m looking to collaborate on building apps and programing / tech forums`
 <br>
