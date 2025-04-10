@@ -2,8 +2,6 @@
 `Building apps, systems, and do webpages, using different languages such as Javascript/Javascript Native, Typescript, Kotlin, Swift, also improving my skills in UI/UX design, and backend solutions`
 <br>
 <br>
-`I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
-<br>
 `My brain like to have many tabs open, when i'm not working with my projects, I like to read about psychology and patterns, philosophy and little physics`
 <br>
 <br>
