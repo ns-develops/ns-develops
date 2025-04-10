@@ -2,11 +2,11 @@
 `Building apps, systems, and do webpages, using different languages such as Javascript/Javascript Native, Typescript, Kotlin, Swift, also improving my skills in UI/UX design, and backend solutions`
 <br>
 <br>
-`💞️ I’m looking to collaborate on building apps and programing / tech forums`
+`I’m looking to collaborate on building apps and programing / tech forums`
 <br>
-`💼 I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
+`I'm intrested to work with creative spirits, environments and hybrid opportunities / coworking`
 <br>
-`🧠 My brain like to have many tabs open, when i'm not learning programing or building things, my current obsessions is to read about psychology and patterns, philosophy and little physics`
+`My brain like to have many tabs open, when i'm not learning programing or building things, my current obsessions is to read about psychology and patterns, philosophy and little physics`
 <br>
 <br>
 [Portfolio](https://yourwebsite.com) 
