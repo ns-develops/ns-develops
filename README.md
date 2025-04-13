@@ -2,7 +2,7 @@
 `Building apps, systems, and webpages, using different languages.`
 
 `Programing languages:
-Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving my skills in UI/UX design, and backend solutions`
+Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving my skills in UI/UX design, and backend solutions.`
 `Other languages per request`
 <br>
 <br>
