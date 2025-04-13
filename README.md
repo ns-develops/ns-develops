@@ -2,7 +2,7 @@
 `Building apps, systems, and webpages, using different languages.`
 
 `Programing languages:
-Javascript/Javascript Native, Typescript, Kotlin, Swift, also improving my skills in UI/UX design, and backend solutions`
+Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving my skills in UI/UX design, and backend solutions`
 <br>
 <br>
 `My brain like to have many tabs open, when i'm not working with developing my projects, I like to read about psychology and patterns, philosophy and little physics`
