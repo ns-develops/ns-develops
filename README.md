@@ -11,7 +11,8 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 `See Stars-list for other projects I've made`<br>
 
 `I gladly help with your idea, upscale and projects to a favorable rate,`<br>
-`Open to meet and hear if you have any other suggestions or for business possibilities, click on below`
+`Open to meet and hear if you have any other suggestions or for business possibilities,`
+<br>
 <br>
 [![Brainville Logo](https://www.brainville.com/favicon.ico)](https://www.brainville.com/HittaEnKonsult) 
 
