@@ -17,8 +17,9 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 `📍Hybrid`
 
 <br>
-
-[Portfolio](https://yourwebsite.com) | [Förfrågan](https://www.brainville.com/HittaEnKonsult) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
+[Förfrågan förmånligt pris](https://www.brainville.com/HittaEnKonsult) <br>
+[Portfolio](https://yourwebsite.com) <br>
+[LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/) <br>
 
 <br>
 <br>
