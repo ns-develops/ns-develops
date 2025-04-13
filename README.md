@@ -14,13 +14,12 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 `Open to meet and hear if you have any other suggestions or for business possibilities,`
 <br>
 <br>
-[![Brainville Logo](https://www.brainville.com/favicon.ico)](https://www.brainville.com/HittaEnKonsult) 
 
 `📍Hybrid`
 
 <br>
 
-[Portfolio](https://yourwebsite.com) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
+[Portfolio](https://yourwebsite.com) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/) | [Hire](https://www.brainville.com/HittaEnKonsult) 
 
 <br>
 <br>
@@ -38,5 +37,6 @@ You can click the Preview link to take a look at your changes.
 ➡▸ Published . . .<br>
 [<img src="https://github.com/user-attachments/assets/b5321de8-5558-4b4a-b540-819dd002a404" width="20">]([https://yourwebsite.com)
 - 📫 How to reach me test.tt9061030@gmail.com
+[![Brainville Logo](https://www.brainville.com/favicon.ico)](https://www.brainville.com/HittaEnKonsult) 
 `<p style="font-size:20px;"> <strong>Building apps, systems, and do webpages, using different languages such as Javascript/Native, Typescript, Kotlin, Swift, UI/UX design,and backend solutions </strong></p>`
 
