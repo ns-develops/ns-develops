@@ -19,7 +19,7 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 
 <br>
 
-[Portfolio](https://yourwebsite.com) | [Business assign](https://www.brainville.com/HittaEnKonsult) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
+[Portfolio](https://yourwebsite.com) | [Inquiry](https://www.brainville.com/HittaEnKonsult) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
 
 <br>
 <br>
