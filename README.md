@@ -17,14 +17,17 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 `📍Hybrid`
 
 <br>
-Apps on Google play: Apps on Apple store:
-<br>
-<br>
-<br>
-<br>
-<br>
 
 [![Förfrågan – förmånligt pris](https://img.shields.io/badge/Förfrågan-Brainville-blue?style=for-the-badge)](https://www.brainville.com/HittaEnKonsult)  
+
+<br>
+<br>
+<br>
+<br>
+<br>
+Apps on Google play: Apps on Apple store:
+
+
 
 
 
