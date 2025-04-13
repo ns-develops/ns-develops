@@ -15,7 +15,9 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 <br>
 <br>
 
-`Current: Looking for Full-time / consultant and Trainee opportunities to finish my degree 📍Hybrid`
+`Current: Looking for Full-time / consultant and Trainee opportunities to finish my degree 📍Hybrid`<br>
+
+`📍Hybrid`
 
 <br>
 
