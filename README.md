@@ -10,8 +10,9 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 <br>
 `See Stars-list for other projects I've made`<br>
 
-`I gladly help with your idea, upscale and projects hereto a favorable rate,`<br>
-`Open to meet and hear if you have any other suggestions or for business possibilities,`<br>
+`I gladly help with your idea, upscale and projects to a favorable rate,`<br>
+`Open to meet and hear if you have any other suggestions or for business possibilities, click on below`
+<br>
 [![Brainville Logo](https://www.brainville.com/favicon.ico)](https://www.brainville.com/HittaEnKonsult) 
 
 `📍Hybrid`
