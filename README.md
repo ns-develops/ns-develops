@@ -37,8 +37,13 @@ ns-develops/ns-develops is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes. 
 - 👀 I’m interested in crud operations, systems, web development, building apps and new stuff!
 ➡▸ Published . . .<br>
+[![Förfrågan – förmånligt pris](https://img.shields.io/badge/Förfrågan-Brainville-blue?style=for-the-badge)](https://www.brainville.com/HittaEnKonsult)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Besök%20sidan-informational?style=for-the-badge)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
+
 [<img src="https://github.com/user-attachments/assets/b5321de8-5558-4b4a-b540-819dd002a404" width="20">]([https://yourwebsite.com)
 - 📫 How to reach me test.tt9061030@gmail.com
 [![Brainville Logo](https://www.brainville.com/favicon.ico)](https://www.brainville.com/HittaEnKonsult) 
 `<p style="font-size:20px;"> <strong>Building apps, systems, and do webpages, using different languages such as Javascript/Native, Typescript, Kotlin, Swift, UI/UX design,and backend solutions </strong></p>`
+
 
