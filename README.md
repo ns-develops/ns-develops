@@ -10,7 +10,7 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 <br>
 `See Stars-list for other projects I've made`<br>
 
-`I gladly help with your idea, upscale and projects to a favorable rate,`<br>
+`I gladly help with your idea, upscale and projects to a favorable rate, intrested in both small as well large projects`<br>
 `Open to meet and hear if you have any other suggestions or for business possibilities,`
 <br>
 <br>
@@ -19,7 +19,7 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 
 <br>
 
-[Portfolio](https://yourwebsite.com) | [Business Inquiries](https://www.brainville.com/HittaEnKonsult) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
+[Portfolio](https://yourwebsite.com) | [Förfrågan](https://www.brainville.com/HittaEnKonsult) | [LinkedIn](https://www.linkedin.com/in/natalie-samaan-5a0588353/)
 
 <br>
 <br>
