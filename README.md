@@ -11,6 +11,9 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 `📍Hybrid`
 
 [Portfolio](https://yourwebsite.com) 
+
+`See Starred for other projects I've made`
+
 <br>
 <br>
 <br>
