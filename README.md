@@ -8,11 +8,13 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 `My brain like to have many tabs open, when i'm not working with developing my projects, I like to read about psychology and patterns, philosophy and little physics`
 <br>
 <br>
+`See Stars-list for other projects I've made`
+
 `📍Hybrid`
 
-[Portfolio](https://yourwebsite.com) 
+<br>
 
-`See Starred for other projects I've made`
+[Portfolio](https://yourwebsite.com) 
 
 <br>
 <br>
