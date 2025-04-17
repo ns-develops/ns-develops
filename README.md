@@ -22,10 +22,10 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 <br>
 
 [![Förfrågan – förmånligt pris](https://img.shields.io/badge/Förfrågan-Brainville-blue?style=for-the-badge)](https://www.brainville.com/HittaEnKonsult)  
-
+<br>
+<br>
 SV  | EN  | AR
 
-<br>
 <br>
 <br>
 Apps on Google play: Apps on Apple store:
