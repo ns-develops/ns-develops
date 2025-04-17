@@ -23,7 +23,7 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 
 [![Förfrågan – förmånligt pris](https://img.shields.io/badge/Förfrågan-Brainville-blue?style=for-the-badge)](https://www.brainville.com/HittaEnKonsult)  
 
-
+SV  | EN  | AR
 
 <br>
 <br>
