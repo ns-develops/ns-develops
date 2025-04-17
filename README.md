@@ -27,7 +27,6 @@ Javascript/Javascript Native, Typescript, Kotlin, Swift and Java also improving 
 SV  | EN  | AR
 
 <br>
-<br>
 Apps on Google play: Apps on Apple store:
 
 
